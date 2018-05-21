@@ -1,0 +1,26 @@
+{
+  "name": "testserver",
+  "version": "1.0.0",
+  "description": "socket.io测试服务器",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ileesen/test_socketio.git"
+  },
+  "keywords": [
+    "socketio"
+  ],
+  "author": "ileesen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ileesen/test_socketio/issues"
+  },
+  "homepage": "https://github.com/ileesen/test_socketio#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
